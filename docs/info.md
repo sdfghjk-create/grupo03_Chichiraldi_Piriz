@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Este circuito utiliza registros de desplazamiento y compuertas lógicas para evaluar las entradas y encender el LED únicamente cuando detecta una combinación binaria específica.
 
 ## How to test
 
-Explain how to use your project
+Insertar la siguiente combinación binaria: 11001110.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Dos botones, reset y step, y una luz led.
